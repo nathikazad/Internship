@@ -1,0 +1,1 @@
+The PCB that got printed doest not have vcc connected on the RS485 chip, I updated that error on the eagle files afterwards
